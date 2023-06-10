@@ -1,0 +1,6 @@
+
+.card-image {
+    width: 100%;  /* set width to take full container width */
+    height: 200px;  /* fixed height */
+    object-fit: cover;  /* cover to maintain the aspect ratio of the image */
+}
